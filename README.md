@@ -1,0 +1,2 @@
+# nextjs
+jamstack &amp; next
